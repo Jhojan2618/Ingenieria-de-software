@@ -55,7 +55,7 @@ Conexión con GitHub
 
 Se creó un repositorio remoto y se vinculó:
 
-git remote add origin https://github.com/TU_USUARIO/TU_REPO.git
+git remote add origin https://github.com/Jhojan2618/Ingenieria-de-software
 
 Subida de cambios
 
